@@ -1,0 +1,29 @@
+#card{
+    height: 500px;
+    width:35%;
+    background-color: #EEE8AA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   margin: 0 auto;
+   padding-top: 0px;
+   border-radius: 10px;
+}
+input{
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: black;
+    border: 2px solid rgb(173, 147, 147);
+}
+button{
+    border-radius: 5px;
+    color: rgb(233, 35, 61);
+    font-weight: 100;
+    font-family: fantasy;
+    padding: 2px;
+    cursor: pointer;
+}
+#heading:hover{
+    color:#ce1ab6;
+}
